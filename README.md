@@ -22,3 +22,7 @@ type이 number이고 정수인 num을 인자로 받아, 이를 뒤집어서 retu
 <h3>문제7 (210525)</h3>
 숫자로 이루어진 배열 nums와 임의의 수 mode를 인자로 받아<br/>
 nums 배열 안에서 가장 자주 등장한 숫자를 mode의 개수만큼 return하는 함수를 만들어라.
+
+<h3>문제8 (210526)</h3>
+string으로 이루어진 복소수(complex number)인 input1과 input2를 인자로 받아<br/>
+두 수를 곱한 값을 반환하는 함수를 만들어라.
