@@ -26,3 +26,7 @@ nums 배열 안에서 가장 자주 등장한 숫자를 mode의 개수만큼 ret
 <h3>문제8 (210526)</h3>
 string으로 이루어진 복소수(complex number)인 input1과 input2를 인자로 받아<br/>
 두 수를 곱한 값을 반환하는 함수를 만들어라.
+
+<h3>문제9 (210527)</h3>
+2021 KAKAO BLIND RECRUITMENT 문제1 <br/>
+https://programmers.co.kr/learn/courses/30/lessons/72410
