@@ -35,3 +35,8 @@ https://programmers.co.kr/learn/courses/30/lessons/72410
 정수 배열 numbers가 주어집니다. <br/>
 numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해서 만들 수 있는 모든 수를<br/>
 배열에 오름차순으로 담아 return 하도록 solution 함수를 완성해주세요.
+
+<h3>문제11 (210531)</h3>
+양수로 이루어진 그리드를 인자로 받아<br/>
+상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,<br/>
+가장 작은 합을 return하는 pathfind 함수를 만들어라 <br/>
