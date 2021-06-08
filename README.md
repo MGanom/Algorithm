@@ -53,3 +53,7 @@ numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해�
 
 <h3>문제15 (210607)</h3>
 linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
+
+<h3>문제16 (210608)</h3>
+2019 KAKAO BLIND RECRUITMENT 문제1 <br />
+https://programmers.co.kr/learn/courses/30/lessons/42888
