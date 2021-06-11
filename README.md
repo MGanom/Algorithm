@@ -58,6 +58,7 @@ linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
 2019 KAKAO BLIND RECRUITMENT 문제1 <br />
 https://programmers.co.kr/learn/courses/30/lessons/42888
 
-<h3>문제17 (210609~ 진행중) </h3>
+<h3>문제17 (210609~ 210612) </h3>
 2021 KAKAO BLIND RECRUITMENT 문제2 <br />
-https://programmers.co.kr/learn/courses/30/lessons/72412
+https://programmers.co.kr/learn/courses/30/lessons/72412<br />
+216012: 정확성 풀이완료, 효율성 관련 refactoring 필요
