@@ -62,3 +62,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42888
 2021 KAKAO BLIND RECRUITMENT 문제2 <br />
 https://programmers.co.kr/learn/courses/30/lessons/72412<br />
 216012: 정확성 풀이완료, 효율성 관련 refactoring 필요
+
+<h3>문제18 (210614) </h3>
+2019 카카오 개발자 겨울 인턴십 (튜플) <br />
+https://programmers.co.kr/learn/courses/30/lessons/64065
