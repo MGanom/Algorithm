@@ -28,7 +28,7 @@ string으로 이루어진 복소수(complex number)인 input1과 input2를 인�
 두 수를 곱한 값을 반환하는 함수를 만들어라.
 
 <h3>문제9 (210527)</h3>
-2021 KAKAO BLIND RECRUITMENT 문제1 <br/>
+2021 KAKAO BLIND RECRUITMENT - 신규 아이디 추천 <br/>
 https://programmers.co.kr/learn/courses/30/lessons/72410
 
 <h3>문제10 (210528)</h3>
@@ -55,11 +55,11 @@ numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해�
 linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
 
 <h3>문제16 (210608)</h3>
-2019 KAKAO BLIND RECRUITMENT 문제1 <br />
+2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 <br />
 https://programmers.co.kr/learn/courses/30/lessons/42888
 
 <h3>문제17 (210609~ 210612) </h3>
-2021 KAKAO BLIND RECRUITMENT 문제2 <br />
+2021 KAKAO BLIND RECRUITMENT - 순위 검색 <br />
 https://programmers.co.kr/learn/courses/30/lessons/72412<br />
 216012: 정확성 풀이완료, 효율성 관련 refactoring 필요
 
@@ -70,3 +70,7 @@ https://programmers.co.kr/learn/courses/30/lessons/64065
 <h3>문제19 (210616) </h3>
 프로그래머스 코딩테스트 연습 - 위장 <br />
 https://programmers.co.kr/learn/courses/30/lessons/42578
+
+<h3>문제20 (210619) </h3>
+2019 KAKAO BLIND RECRUITMENT - 실패율<br />
+https://programmers.co.kr/learn/courses/30/lessons/42889
