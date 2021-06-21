@@ -74,3 +74,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42578
 <h3>문제20 (210619) </h3>
 2019 KAKAO BLIND RECRUITMENT - 실패율<br />
 https://programmers.co.kr/learn/courses/30/lessons/42889
+
+<h3>문제21 (210621) </h3>
+2020 카카오 인턴십 - 키패드 누르기 <br />
+https://programmers.co.kr/learn/courses/30/lessons/67256
