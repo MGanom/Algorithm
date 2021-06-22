@@ -78,3 +78,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42889
 <h3>문제21 (210621) </h3>
 2020 카카오 인턴십 - 키패드 누르기 <br />
 https://programmers.co.kr/learn/courses/30/lessons/67256
+
+<h3>문제22 (210622) </h3>
+2020 KAKAO BLIND RECRUITMENT - 문자열 압축 <br />
+https://programmers.co.kr/learn/courses/30/lessons/60057
