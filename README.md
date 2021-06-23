@@ -61,6 +61,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42888
 <h3>문제17 (210609~ 210612) </h3>
 2021 KAKAO BLIND RECRUITMENT - 순위 검색 <br />
 https://programmers.co.kr/learn/courses/30/lessons/72412<br />
+210609: 풀이 중
 216012: 정확성 풀이완료, 효율성 관련 refactoring 필요
 
 <h3>문제18 (210614) </h3>
@@ -82,3 +83,9 @@ https://programmers.co.kr/learn/courses/30/lessons/67256
 <h3>문제22 (210622) </h3>
 2020 KAKAO BLIND RECRUITMENT - 문자열 압축 <br />
 https://programmers.co.kr/learn/courses/30/lessons/60057
+
+<h3>문제23 (210623~)</h3>
+2020 KAKAO BLIND RECRUITMENT - 괄호 변환 <br />
+https://programmers.co.kr/learn/courses/30/lessons/60058
+210623: 풀이 중
+
