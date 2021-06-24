@@ -58,7 +58,7 @@ linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
 2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 <br />
 https://programmers.co.kr/learn/courses/30/lessons/42888
 
-<h3>문제17 (210609~ 210612) </h3>
+<h3>문제17 (210609 ~ 210612) </h3>
 2021 KAKAO BLIND RECRUITMENT - 순위 검색 <br />
 https://programmers.co.kr/learn/courses/30/lessons/72412<br />
 210609: 풀이 중
@@ -84,8 +84,9 @@ https://programmers.co.kr/learn/courses/30/lessons/67256
 2020 KAKAO BLIND RECRUITMENT - 문자열 압축 <br />
 https://programmers.co.kr/learn/courses/30/lessons/60057
 
-<h3>문제23 (210623~)</h3>
+<h3>문제23 (210623 ~ 210624)</h3>
 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 <br />
 https://programmers.co.kr/learn/courses/30/lessons/60058
 210623: 풀이 중
+210624: 풀이 완료
 
