@@ -90,3 +90,7 @@ https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
 210623: 풀이 중 <br />
 210624: 풀이 완료
 
+<h3>문제24 (210624)</h3>
+2018 KAKAO BLIND RECRUITMENT - [1차] 뉴스 클러스터링 <br />
+https://programmers.co.kr/learn/courses/30/lessons/17677
+
