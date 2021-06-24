@@ -86,7 +86,7 @@ https://programmers.co.kr/learn/courses/30/lessons/60057
 
 <h3>문제23 (210623 ~ 210624)</h3>
 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 <br />
-https://programmers.co.kr/learn/courses/30/lessons/60058
-210623: 풀이 중
+https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
+210623: 풀이 중 <br />
 210624: 풀이 완료
 
