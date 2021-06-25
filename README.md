@@ -94,3 +94,6 @@ https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
 2018 KAKAO BLIND RECRUITMENT - [1차] 뉴스 클러스터링 <br />
 https://programmers.co.kr/learn/courses/30/lessons/17677
 
+<h3>문제25 (210625)</h3>
+2020 카카오 인턴십 - 수식 최대화 <br />
+https://programmers.co.kr/learn/courses/30/lessons/67257
