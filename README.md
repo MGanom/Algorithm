@@ -105,3 +105,7 @@ https://programmers.co.kr/learn/courses/30/lessons/17683
 <h3>문제27 (210629)</h3>
 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬 <br />
 https://programmers.co.kr/learn/courses/30/lessons/17686
+
+<h3>문제28 (210701)</h3>
+2018 KAKAO BLIND RECRUITMENT -[3차] 압축 <br />
+https://programmers.co.kr/learn/courses/30/lessons/17684
