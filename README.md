@@ -113,4 +113,5 @@ https://programmers.co.kr/learn/courses/30/lessons/17684
 <h3>문제29 (210702 ~)</h3>
 2018 KAKAO BLIND RECRUITMENT - [1차] 프렌즈4블록 <br />
 https://programmers.co.kr/learn/courses/30/lessons/17679 <br />
-210702: 풀이 중 <br />
+210702 ~ 210703: 풀이 중 <br />
+
