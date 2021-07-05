@@ -87,7 +87,7 @@ https://programmers.co.kr/learn/courses/30/lessons/60057
 <h3>문제23 (210623 ~ 210624)</h3>
 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 <br />
 https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
-210623: 풀이 중 <br />
+210623 ~: 풀이 중 <br />
 210624: 풀이 완료
 
 <h3>문제24 (210624)</h3>
@@ -110,8 +110,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17686
 2018 KAKAO BLIND RECRUITMENT -[3차] 압축 <br />
 https://programmers.co.kr/learn/courses/30/lessons/17684
 
-<h3>문제29 (210702 ~)</h3>
+<h3>문제29 (210702 ~ 210705)</h3>
 2018 KAKAO BLIND RECRUITMENT - [1차] 프렌즈4블록 <br />
 https://programmers.co.kr/learn/courses/30/lessons/17679 <br />
-210702 ~ 210703: 풀이 중 <br />
+210702 ~: 풀이 중 <br />
+210705: 풀이 완료
 
