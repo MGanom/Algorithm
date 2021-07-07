@@ -116,3 +116,7 @@ https://programmers.co.kr/learn/courses/30/lessons/17679 <br />
 210702 ~: 풀이 중 <br />
 210705: 풀이 완료
 
+<h3>문제29 (210707 ~ )</h3>
+2019 KAKAO BLIND RECRUITMENT - 후보키 <br />
+https://programmers.co.kr/learn/courses/30/lessons/42890 <br />
+210707 ~: 풀이 중
