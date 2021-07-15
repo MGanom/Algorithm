@@ -45,6 +45,7 @@ string으로 이루어진 복소수(complex number)인 input1과 input2를 인�
 
 <h3>문제9 (210527)</h3>
 2021 KAKAO BLIND RECRUITMENT - 신규 아이디 추천 <br/>
+
 https://programmers.co.kr/learn/courses/30/lessons/72410
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C9.md'>풀이</link>
@@ -86,50 +87,58 @@ linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
 
 <h3>문제16 (210608)</h3>
 2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/42888
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C16.md'>풀이</link>
 
 <h3>문제17 (210609 ~ 210612) </h3>
 2021 KAKAO BLIND RECRUITMENT - 순위 검색 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/72412<br />
-210609: 풀이 중
+210609: 풀이 중 <
 216012: 정확성 풀이완료, 효율성 관련 refactoring 필요
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C17.md'>풀이</link>
 
 <h3>문제18 (210614) </h3>
 2019 카카오 개발자 겨울 인턴십 (튜플) <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/64065
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C18.md'>풀이</link>
 
 <h3>문제19 (210616) </h3>
 프로그래머스 코딩테스트 연습 - 위장 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/42578
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C19.md'>풀이</link>
 
 <h3>문제20 (210619) </h3>
 2019 KAKAO BLIND RECRUITMENT - 실패율<br />
+
 https://programmers.co.kr/learn/courses/30/lessons/42889
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C20.md'>풀이</link>
 
 <h3>문제21 (210621) </h3>
 2020 카카오 인턴십 - 키패드 누르기 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/67256
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C21.md'>풀이</link>
 
 <h3>문제22 (210622) </h3>
 2020 KAKAO BLIND RECRUITMENT - 문자열 압축 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/60057
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C22.md'>풀이</link>
 
 <h3>문제23 (210623 ~ 210624)</h3>
 2020 KAKAO BLIND RECRUITMENT - 괄호 변환 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
 210623 ~: 풀이 중 <br />
 210624: 풀이 완료
@@ -138,36 +147,42 @@ https://programmers.co.kr/learn/courses/30/lessons/60058 <br />
 
 <h3>문제24 (210624)</h3>
 2018 KAKAO BLIND RECRUITMENT - [1차] 뉴스 클러스터링 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/17677
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C24.md'>풀이</link>
 
 <h3>문제25 (210625)</h3>
 2020 카카오 인턴십 - 수식 최대화 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/67257
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C25.md'>풀이</link>
 
 <h3>문제26 (210628)</h3>
 2018 KAKAO BLIND RECRUITMENT - [3차] 방금그곡 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/17683
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C26.md'>풀이</link>
 
 <h3>문제27 (210629)</h3>
 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/17686
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C27.md'>풀이</link>
 
 <h3>문제28 (210701)</h3>
 2018 KAKAO BLIND RECRUITMENT -[3차] 압축 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/17684
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C28.md'>풀이</link>
 
 <h3>문제29 (210702 ~ 210705)</h3>
 2018 KAKAO BLIND RECRUITMENT - [1차] 프렌즈4블록 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/17679 <br />
 210702 ~: 풀이 중 <br />
 210705: 풀이 완료
@@ -176,6 +191,7 @@ https://programmers.co.kr/learn/courses/30/lessons/17679 <br />
 
 <h3>문제30 (210707 ~ 210714)</h3>
 2019 KAKAO BLIND RECRUITMENT - 후보키 <br />
+
 https://programmers.co.kr/learn/courses/30/lessons/42890 <br />
 210707 ~: 풀이 중 <br />
 210714: 풀이 완료
