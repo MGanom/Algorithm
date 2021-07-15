@@ -197,3 +197,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42890 <br />
 210714: 풀이 완료
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C30.md'>풀이</link>
+
+<h3>문제31 (210715)</h3>
+2021 카카오 채용연계형 인턴십 - 거리두기 확인하기 <br />
+
+https://programmers.co.kr/learn/courses/30/lessons/81302
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31.md'>풀이</link>
