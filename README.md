@@ -204,3 +204,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42890 <br />
 https://programmers.co.kr/learn/courses/30/lessons/81302
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31.md'>풀이</link>
+
+<h3>문제32 (210716)</h3>
+2018 KAKAO BLIND RECRUITMENT - [3차] n진수 게임 <br />
+
+https://programmers.co.kr/learn/courses/30/lessons/17687
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C32.md'>풀이</link>
