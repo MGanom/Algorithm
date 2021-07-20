@@ -1,49 +1,54 @@
 # Algorithm
 
-<h3>문제1 (210428)</h3>
+<details>
+<summary>문제01 ~ 05</summary>
+<h3>문제01 (210428)</h3>
 숫자들로 이루어진 배열 numList와 임의의 값 target을 인자로 받아<br/>
 배열에서 두 수를 뽑아 그 합이 target이 되도록 하는 수들의 index를 담은 배열 numsIndex를 return 하는 함수를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C01.md'>풀이</a>
 
-<h3>문제2 (210430)</h3>
+<h3>문제02 (210430)</h3>
 type이 number이고 정수인 num을 인자로 받아, 이를 뒤집어서 return 하는 함수를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C02.md'>풀이</a>
 
-<h3>문제3 (210520)</h3>
+<h3>문제03 (210520)</h3>
 단어들이 담긴 배열 strs에 대해 배열 안의 단어들 간 공통된 시작 문자를 반환하는 함수 sameStart를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C03.md'>풀이</a>
 
-<h3>문제4 (210520)</h3>
+<h3>문제04 (210520)</h3>
 1~3999 사이의 로마자 rom을 인자로 받아 그것을 아라비아 숫자로 반환해주는 함수를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C04.md'>풀이</a>
 
-<h3>문제5 (210521)</h3>
+<h3>문제05 (210521)</h3>
 숫자로 이루어진 배열 nums를 인자로 받아 배열 내에서 과반수가 넘는 요소를 반환하는 함수 majority를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C05.md'>풀이</a>
+</details>
 
-<h3>문제6 (210524)</h3>
+<details>
+<summary>문제06 ~ 10</summary>
+<h3>문제06 (210524)</h3>
 여러 괄호들로 이루어진 string 인자 brac에 대하여 brac이 유효한 표현인지를 판별하는 함수 bracket을 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C06.md'>풀이</a>
 
-<h3>문제7 (210525)</h3>
+<h3>문제07 (210525)</h3>
 숫자로 이루어진 배열 nums와 임의의 수 mode를 인자로 받아<br/>
 nums 배열 안에서 가장 자주 등장한 숫자를 mode의 개수만큼 return하는 함수를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C07.md'>풀이</a>
 
-<h3>문제8 (210526)</h3>
+<h3>문제08 (210526)</h3>
 string으로 이루어진 복소수(complex number)인 input1과 input2를 인자로 받아<br/>
 두 수를 곱한 값을 반환하는 함수를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C08.md'>풀이</a>
 
-<h3>문제9 (210527)</h3>
+<h3>문제09 (210527)</h3>
 2021 KAKAO BLIND RECRUITMENT - 신규 아이디 추천 <br/>
 
 https://programmers.co.kr/learn/courses/30/lessons/72410
@@ -56,7 +61,10 @@ numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해�
 배열에 오름차순으로 담아 return 하도록 solution 함수를 완성해주세요.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C01~10/%EB%AC%B8%EC%A0%9C10.md'>풀이</a>
+</details>  
 
+<details>
+<summary>문제11 ~ 15</summary>
 <h3>문제11 (210531)</h3>
 양수로 이루어진 그리드를 인자로 받아<br/>
 상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,<br/>
@@ -84,7 +92,10 @@ numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해�
 aedList를 만들 수 있는 MyaedList class를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C11~20/%EB%AC%B8%EC%A0%9C15.md'>풀이</a>
+</details>
 
+<details>
+<summary>문제16 ~ 20</summary>
 <h3>문제16 (210608)</h3>
 2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 <br />
 
@@ -121,7 +132,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42578
 https://programmers.co.kr/learn/courses/30/lessons/42889
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C11~20/%EB%AC%B8%EC%A0%9C20.md'>풀이</a>
+</details>
 
+<details>
+<summary>문제21 ~ 25</summary>
 <h3>문제21 (210621) </h3>
 2020 카카오 인턴십 - 키패드 누르기 <br />
 
@@ -158,7 +172,10 @@ https://programmers.co.kr/learn/courses/30/lessons/17677
 https://programmers.co.kr/learn/courses/30/lessons/67257
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C21~30/%EB%AC%B8%EC%A0%9C25.md'>풀이</a>
+</details>
 
+<details>
+<summary>문제26 ~ 30</summary>
 <h3>문제26 (210628)</h3>
 2018 KAKAO BLIND RECRUITMENT - [3차] 방금그곡 <br />
 
@@ -197,7 +214,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42890 <br />
 210714: 풀이 완료
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C21~30/%EB%AC%B8%EC%A0%9C30.md'>풀이</a>
+</details>
 
+<details>
+<summary>문제31 ~ 35</summary>
 <h3>문제31 (210715)</h3>
 2021 카카오 채용연계형 인턴십 - 거리두기 확인하기 <br />
 
@@ -218,3 +238,4 @@ https://programmers.co.kr/learn/courses/30/lessons/17687
 https://programmers.co.kr/learn/courses/30/lessons/72411
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C33.md'>풀이</a>
+</details>
