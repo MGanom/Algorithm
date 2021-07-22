@@ -238,4 +238,10 @@ https://programmers.co.kr/learn/courses/30/lessons/17687
 https://programmers.co.kr/learn/courses/30/lessons/72411
 
 <a href='https://github.com/MGanom/Algorithm/blob/folder/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C33.md'>풀이</a>
+
+<h3>문제34 (210722)</h3>
+2020 KAKAO BLIND RECRUITMENT - 자물쇠와 열쇠  
+  
+https://programmers.co.kr/learn/courses/30/lessons/60059
+
 </details>
