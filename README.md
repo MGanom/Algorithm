@@ -89,7 +89,7 @@ numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해�
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C11~20/%EB%AC%B8%EC%A0%9C14.md'>풀이</a>
 
 <h3>문제15 (210607)</h3>
-aedList를 만들 수 있는 MyaedList class를 만들어라.
+linkedList를 만들 수 있는 MyLinkedList class를 만들어라.
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C11~20/%EB%AC%B8%EC%A0%9C15.md'>풀이</a>
 </details>
@@ -242,7 +242,8 @@ https://programmers.co.kr/learn/courses/30/lessons/72411
 <h3>문제34 (210722)</h3>
 2020 KAKAO BLIND RECRUITMENT - 자물쇠와 열쇠  
   
-https://programmers.co.kr/learn/courses/30/lessons/60059
+https://programmers.co.kr/learn/courses/30/lessons/60059  
+210722 ~: 풀이 중  
   
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C34.md'>풀이</a>
 
