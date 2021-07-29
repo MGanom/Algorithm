@@ -253,7 +253,8 @@ https://programmers.co.kr/learn/courses/30/lessons/60059
 
 2018 KAKAO BLIND RECRUITMENT - [1차] 추석 트래픽  
 https://programmers.co.kr/learn/courses/30/lessons/17676  
-210728 ~: 풀이 중
+210728 ~: 풀이 중  
+210729: 풀이 완료
   
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C35.md'>풀이</a>
 
