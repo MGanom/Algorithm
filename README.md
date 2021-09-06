@@ -259,3 +259,15 @@ https://programmers.co.kr/learn/courses/30/lessons/17676
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C35.md'>풀이</a>
 
 </details>
+
+<details>
+<summary>문제36 ~ 40</summary>
+<h3>문제31 (210715)</h3>
+2020 카카오 인턴십 - 보석 쇼핑 
+
+https://programmers.co.kr/learn/courses/30/lessons/67258
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C36.md'>풀이</a>
+
+</details>
+
