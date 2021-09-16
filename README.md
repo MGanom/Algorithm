@@ -278,10 +278,11 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C37.md'>풀이</a>
 
-<h3>문제38 (210910 ~)</h3>
+<h3>문제38 (210910 ~ 210916)</h3>
   
 2018 KAKAO BLIND RECRUITMENT - [1차] 셔틀버스  
 210910 ~: 풀이 중  
+210916: 풀이완료
 
 https://programmers.co.kr/learn/courses/30/lessons/17678
 
