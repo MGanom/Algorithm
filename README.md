@@ -281,21 +281,23 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 <h3>문제38 (210910 ~ 210916)</h3>
   
 2018 KAKAO BLIND RECRUITMENT - [1차] 셔틀버스  
+https://programmers.co.kr/learn/courses/30/lessons/17678  
 210910 ~: 풀이 중  
 210916: 풀이완료
 
-https://programmers.co.kr/learn/courses/30/lessons/17678
+
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C38.md'>풀이</a>
   
 <h3>문제39 (210917 ~)</h3>
   
 2019 KAKAO BLIND RECRUITMENT - 길 찾기 게임  
+https://programmers.co.kr/learn/courses/30/lessons/42892  
 210917 ~: 풀이 중  
 
-https://programmers.co.kr/learn/courses/30/lessons/42892
 
-<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C38.md'>풀이</a>
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C39.md'>풀이</a>
   
 </details>
 
