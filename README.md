@@ -296,6 +296,14 @@ https://programmers.co.kr/learn/courses/30/lessons/42892
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C39.md'>풀이</a>
   
+<h3>문제40 (211008 ~ )</h3>
+  
+2019 카카오 개발자 겨울 인턴십 - 징검다리 건너기  
+https://programmers.co.kr/learn/courses/30/lessons/64062  
+211008 ~: 풀이 중  
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C31~40/%EB%AC%B8%EC%A0%9C40.md'>풀이</a>
+  
 </details>
 
 
