@@ -308,11 +308,12 @@ https://programmers.co.kr/learn/courses/30/lessons/64062
 
 <details>
 <summary>문제41 ~ 45</summary>
-<h3>문제41 (211113 ~ )</h3>
+<h3>문제41 (211113 ~ 211119)</h3>
   
 2020 KAKAO BLIND RECRUITMENT - 기둥과 보 설치  
 https://programmers.co.kr/learn/courses/30/lessons/60061?language=javascript  
 211113 ~: 풀이 중  
+211119: 풀이 완료
 
 <a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C41~45/%EB%AC%B8%EC%A0%9C41.md'>풀이</a>
 
