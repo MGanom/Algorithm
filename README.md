@@ -315,6 +315,15 @@ https://programmers.co.kr/learn/courses/30/lessons/60061?language=javascript
 211113 ~: 풀이 중  
 211119: 풀이 완료
 
-<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C41~45/%EB%AC%B8%EC%A0%9C41.md'>풀이</a>
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C41~45/%EB%AC%B8%EC%A0%9C41.md'>풀이</a>  
+  
+<h3>문제42 (211122 ~ )</h3>
+  
+2020 KAKAO BLIND RECRUITMENT - 외벽 점검   
+https://programmers.co.kr/learn/courses/30/lessons/60062  
+2111122 ~: 풀이 중  
+
+
+<a href='https://github.com/MGanom/Algorithm/blob/main/%EB%AC%B8%EC%A0%9C41~45/%EB%AC%B8%EC%A0%9C42.md'>풀이</a>
 
 </details>
